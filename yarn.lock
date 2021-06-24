@@ -2735,9 +2735,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@TapSwapV3/uikit":
+"@pancakeswap-libs/uikit@candydefi/candy-uikit":
   version "0.29.3"
-  resolved "https://codeload.github.com/TapSwapV3/uikit/tar.gz/3f53d6d331b6d4033137ca2f1b941a6d20627aa2"
+  resolved "https://codeload.github.com/candydefi/candy-uikit/tar.gz/7c6e852bd5ef8c2279f43d1a7455153748031fa4"
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
