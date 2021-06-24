@@ -2723,9 +2723,9 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@pancakeswap-libs/sdk@candydefi/candy-sdk":
+"@pancakeswap-libs/sdk@pixiuswap/pixiu-sdk":
   version "2.2.0"
-  resolved "https://codeload.github.com/candydefi/candy-sdk/tar.gz/ab0c1967171515452135c9ba36259cb9f03e97b7"
+  resolved "https://codeload.github.com/pixiuswap/pixiu-sdk/tar.gz/c9355246cc14f2ad1d03e8e7d866017ff8413290"
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"
@@ -2735,9 +2735,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@candydefi/candy-uikit":
+"@pancakeswap-libs/uikit@pixiuswap/pixiu-uikit":
   version "0.29.3"
-  resolved "https://codeload.github.com/candydefi/candy-uikit/tar.gz/7c6e852bd5ef8c2279f43d1a7455153748031fa4"
+  resolved "https://codeload.github.com/pixiuswap/pixiu-uikit/tar.gz/07ed2a8aa4ac4a1b64e6713336fabf1626872555"
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
